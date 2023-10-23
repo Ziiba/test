@@ -1,7 +1,8 @@
 package first;
 
-public class java {
+public class class2 {
     public static void main(String[] args) {
-        System.out.println(" proje ready");
+        System.out.println("ali is ready");
+
     }
 }
